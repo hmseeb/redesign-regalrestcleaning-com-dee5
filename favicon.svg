@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Regal Rest Cleaning">
+  <defs>
+    <linearGradient id="rrBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10243F"/>
+      <stop offset="100%" stop-color="#0F8C86"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#rrBg)"/>
+  <path d="M12 40 L17 20 L27 30 L32 16 L37 30 L47 20 L52 40 Z" fill="#E0B463"/>
+  <rect x="12" y="44" width="40" height="7" rx="3" fill="#E0B463"/>
+</svg>
